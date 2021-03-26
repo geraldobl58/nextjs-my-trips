@@ -1,9 +1,10 @@
 import { createGlobalStyle } from 'styled-components'
 
 const GlobalStyles = createGlobalStyle`
+
   :root {
-    --highlight: #92b3e8;
-    --background: #b7ddc1;
+    --highlight: #a404b7;
+    --background: #0496b7;
     --white: #eee;
 
     --container: 100rem;
@@ -30,7 +31,7 @@ const GlobalStyles = createGlobalStyle`
   }
 
   body {
-    font-family: --apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    font-family: 'Montserrat', sans-serif;
   }
 
   p {
