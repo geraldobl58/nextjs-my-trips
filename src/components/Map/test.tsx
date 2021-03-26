@@ -16,7 +16,7 @@ describe('<Map />', () => {
   it('should render with the marker in correct place.', () => {
     const place = {
       id: '1',
-      name: 'santos',
+      name: 'Santos',
       slug: 'santos',
       location: {
         latitude: 0,
