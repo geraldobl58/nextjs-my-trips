@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <LinkWrapper href="/about">
-        <InfoOutline size={32} aria-labe="About" />
+        <InfoOutline size={32} aria-label="About" />
       </LinkWrapper>
       <Map />
     </>
