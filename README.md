@@ -9,7 +9,7 @@ Nodejs >= 10
 ```
 ## Preview
 
-<img src="./docs/assets/preview-desktop.gif" width="100%">
+<img src="./docs/assets/images/preview-desktop.gif" width="100%">
 
 Layout & Componentes Responsivos
 
