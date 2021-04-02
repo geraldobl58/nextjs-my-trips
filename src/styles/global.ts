@@ -35,8 +35,8 @@ const GlobalStyles = createGlobalStyle`
   }
 
   p {
-    font-size: 2rem;
-    line-height: var(--medium);
+    font-size: 1rem;
+    line-height: var(--small);
   }
 
   a {
