@@ -37,9 +37,9 @@ export default function PlacesTemplate({ place }: PlacesTemplateProps) {
           place.description?.text ||
           'Creating an interactive map with Nextjs, Graphql, and Graphicms'
         }
-        canonical="https://my-trips-geraldobl58.vercel.app"
+        canonical="https://nextjs-my-trips.vercel.app"
         openGraph={{
-          url: 'https://mytrips.com',
+          url: 'https://nextjs-my-trips.vercel.app',
           title: `${place.name} - My Trips`,
           description:
             place.description?.text ||
